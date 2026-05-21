@@ -1,0 +1,99 @@
+# ninja log v6
+3335	5772	8001094807601336	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj	1df70ec81adf0164
+42	833	8001187860254862	CMakeFiles/GravitySimulator.dir/src/Body.cpp.obj	4c4e606195e68b38
+854	3335	8001094782798026	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj	4c99bb3a3c5567b8
+41	954	8001187074477922	CMakeFiles/GravitySimulator.dir/src/main.cpp.obj	4757de9aa8413549
+6772	7850	8001094841965277	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj	66a0a3d4cca6a111
+65	829	8001187074706573	CMakeFiles/GravitySimulator.dir/src/Renderer.cpp.obj	13204da536e1f594
+14	2614	8010533029734692	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/cmake_install.cmake	a665158607d770e8
+49	409	8001187074558439	CMakeFiles/GravitySimulator.dir/src/Vector2.cpp.obj	ba5f5ac1588ec8b9
+60	953	8001187074656567	CMakeFiles/GravitySimulator.dir/src/Simulation.cpp.obj	51275fc12d1ba76a
+14	2614	8010533031458821	build.ninja	a665158607d770e8
+135	2382	8001094775596181	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.obj	d391416142cbd8f
+889	1098	8001189337725379	GravitySimulator.exe	ca5b48ac81e73547
+4180	4418	8001094816056324	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj	2e9173deb2d3fb9f
+73	352	8001094774985182	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj	b7fae7fcc0a883e7
+94	363	8001094775185142	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.obj	2f23bab4869dc9f5
+2151	3324	8001094795756284	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj	d16efd4e868cb176
+143	417	8001094775686693	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.obj	a6819dd961987b28
+6261	6524	8001094836862316	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj	3f75b3b1b7fb5bc
+110	558	8001094775350722	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj	c1873ba1fb549e86
+157	569	8001094775820678	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj	9201e0e57244ede7
+3519	6457	8001094809448630	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj	23f95d0c73a6eda1
+150	854	8001094775750751	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj	cf1b8cfe35e5b2f5
+417	878	8001094778422144	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/sfml-system.rc.obj	87ea6d7f75465e3f
+2288	3059	8001094797130990	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj	85470efd68bd6c1f
+570	1002	8001094779947178	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj	406ec6f91ac39bce
+85	1017	8001094775105186	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj	7234d1924eee598d
+5715	6862	8001094831404036	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj	82c9f121cf3d3a19
+1002	1179	8001094784271997	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj	9a771ca89fb8a857
+558	1830	8001094779839654	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj	cef59b5e08b64556
+118	2151	8001094775426295	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj	c1ce41ed1cbcb330
+128	2217	8001094775526951	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.obj	c736d216fb51370d
+2383	6261	8001094798074336	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj	a125f25e3227f039
+184	2237	8001094776091355	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/MutexImpl.cpp.obj	df2445db3d4921ac
+4798	5161	8001094822224847	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj	a7848e95c054a587
+196	2288	8001094776211333	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj	49248cf4d05d03b
+6379	6854	8001094838038835	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj	c629b2fbcce8808c
+2353	3519	8001094797780580	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj	3f570e5fe9c96cb8
+102	2353	8001094775270705	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.obj	21b265981b63e57a
+363	2365	8001094777889290	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadLocalImpl.cpp.obj	f60d8802129b52a0
+165	2475	8001094775911357	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ClockImpl.cpp.obj	73678ab85f0650c8
+2220	2490	8001094796457471	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj	c88342dc7f19e270
+2237	2618	8001094796621272	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj	cb9f3be99575a597
+2365	2796	8001094797900560	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj	acbcf0c3f1e498a6
+1831	2828	8001094792557001	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj	7f65540433cc9a87
+354	3263	8001094777789280	_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadImpl.cpp.obj	15c6ea854a562cb1
+3324	3495	8001094807485766	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj	4cac8677519d8cc0
+3264	3642	8001094810334567	_deps/sfml-build/lib/sfml-system-d-2.dll	8ecd4d42e22d83b2
+4418	4810	8001094818428759	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.obj	fad5d50d6595d95e
+3264	3642	8001094810334567	_deps/sfml-build/lib/libsfml-system-d.a	8ecd4d42e22d83b2
+1018	3940	8001094784422154	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj	5d5735d7cceaa224
+3940	4180	8001094813649713	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/sfml-window.rc.obj	2b075e49a9ab4a2d
+5355	6379	8001094827796522	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj	6c3e664cae905a64
+1180	4479	8001094786049991	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj	141a898d66125e2c
+878	4797	8001094783026328	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj	65bde0c762ac082
+2619	5355	8001094800442386	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj	8607bf291d32ef8c
+4810	5505	8001094822354820	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj	2e18212c9da728d7
+2796	5538	8001094802206820	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj	c397f916a6d885fd
+5898	6920	8001094833233854	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj	4bfbb0c9514953e0
+2828	5714	8001094802536830	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj	9e8991f862c94430
+14	2614	8010533030577627	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-build/src/SFML/Audio/cmake_install.cmake	a665158607d770e8
+2475	5898	8001094799002855	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj	d3455205e3e7c75
+3495	5916	8001094809208659	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj	86417170e7782562
+5539	6039	8001094829640252	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj	d1514dc92454912c
+5161	6475	8001094825865030	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj	5ef5eaeacd96e226
+6039	7199	8001094834647872	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj	5e3d9830af10ed3b
+6524	6771	8001094839496852	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.obj	b9b88a0b7a5baadc
+2490	6894	8001094799149937	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj	666be19a1e51ffea
+6457	6960	8001094838825513	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj	6c7588180e9f11c6
+6475	7026	8001094839001254	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj	40e1833742ccb56d
+3642	7108	8001094810674561	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj	62040d8fff3e24b2
+4479	7140	8001094819038132	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj	9fde6507b240b5d4
+5772	7328	8001094831971490	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj	fc67e674f3d047c
+7141	7359	8001094845655271	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.obj	f38e62caf51df613
+6862	7485	8001094842869374	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj	55a5cab63f73359b
+6854	7505	8001094842789420	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj	beff6cde639d20dd
+6895	7537	8001094843195629	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj	92b7eeda8924179b
+7027	7569	8001094844520544	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj	cb5426cf21d81b4
+7359	7586	8001094847844865	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/sfml-graphics.rc.obj	85932880cdb393a5
+7328	7594	8001094847536721	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj	e38d43a4361769
+6921	7818	8001094843457313	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj	6f69c7d45b65154b
+17	889	8001189328997909	CMakeFiles/GravitySimulator.dir/src/GalaxyGenerator.cpp.obj	cb675e0e9ef1a503
+3059	7829	8001094804837046	_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj	8d1f72cd0c841b9
+7109	8044	8001094845387132	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj	4b9be01920272b74
+5916	8063	8001094833413829	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj	59c30236dc26a9a9
+5505	8113	8001094829306113	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.obj	23e39d19355b8363
+7830	8211	8001094856191885	_deps/sfml-build/lib/sfml-window-d-2.dll	f80e4249049e29bf
+7830	8211	8001094856191885	_deps/sfml-build/lib/libsfml-window-d.a	f80e4249049e29bf
+6960	8238	8001094843852840	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj	358de8dd3eeb2250
+7199	8641	8001094846249743	_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj	e3ed099dbb973e64
+8641	9201	8001094865943617	_deps/sfml-build/lib/sfml-graphics-d-2.dll	54b849e61224cbe5
+8641	9201	8001094865943617	_deps/sfml-build/lib/libsfml-graphics-d.a	54b849e61224cbe5
+14	2614	8010533030157505	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-build/cmake_install.cmake	a665158607d770e8
+14	2614	8010533030167504	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-build/src/SFML/cmake_install.cmake	a665158607d770e8
+14	2614	8010533030197538	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-build/src/SFML/System/cmake_install.cmake	a665158607d770e8
+14	2614	8010533030227510	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-build/src/SFML/Main/cmake_install.cmake	a665158607d770e8
+14	2614	8010533030317527	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-build/src/SFML/Window/cmake_install.cmake	a665158607d770e8
+14	2614	8010533030367510	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-build/src/SFML/Network/cmake_install.cmake	a665158607d770e8
+14	2614	8010533030477629	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-build/src/SFML/Graphics/cmake_install.cmake	a665158607d770e8

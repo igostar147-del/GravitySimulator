@@ -1,0 +1,37 @@
+# ninja log v6
+516	616	8001131974786671	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	5d249f33c847d76
+3	108	8001093429356083	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	d162d87729e835dd
+3	108	8001093429356083	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	d162d87729e835dd
+305	414	8001131972737037	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	f59cf94fb997f2dd
+108	119239	8001094620676746	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	6e274c3fc7241fb8
+23	304	8001131968957914	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	83495340febe6356
+108	119239	8001094620676746	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	6e274c3fc7241fb8
+23	304	8001131968957914	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	83495340febe6356
+305	414	8001131972737037	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	f59cf94fb997f2dd
+414	515	8001131973785532	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	a74e247ec6388126
+414	515	8001131973785532	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	a74e247ec6388126
+516	616	8001131974786671	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	5d249f33c847d76
+616	721	8001131975846998	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	c5518608562a090a
+616	721	8001131975846998	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	c5518608562a090a
+721	822	8001131976848880	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	7eb8abb67714edaf
+721	822	8001131976848880	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	7eb8abb67714edaf
+822	950	8001131978118237	CMakeFiles/sfml-populate-complete	a7e72ad63114c8c6
+822	950	8001131978118237	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	a7e72ad63114c8c6
+822	950	8001131978118237	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	a7e72ad63114c8c6
+822	950	8001131978118237	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	a7e72ad63114c8c6
+12	179	8010533016922062	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	83495340febe6356
+12	179	8010533016922062	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	83495340febe6356
+179	245	8010533019205666	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	f59cf94fb997f2dd
+179	245	8010533019205666	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	f59cf94fb997f2dd
+245	310	8010533019853634	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	a74e247ec6388126
+245	310	8010533019853634	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	a74e247ec6388126
+310	379	8010533020543687	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	5d249f33c847d76
+310	379	8010533020543687	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	5d249f33c847d76
+379	437	8010533021093949	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	c5518608562a090a
+379	437	8010533021093949	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	c5518608562a090a
+437	501	8010533021769019	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	7eb8abb67714edaf
+437	501	8010533021769019	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	7eb8abb67714edaf
+501	582	8010533022569108	CMakeFiles/sfml-populate-complete	a7e72ad63114c8c6
+501	582	8010533022569108	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	a7e72ad63114c8c6
+501	582	8010533022569108	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	a7e72ad63114c8c6
+501	582	8010533022569108	C:/Users/Asus ZenBook/CLionProjects/gravity_simulator/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	a7e72ad63114c8c6
